@@ -1,0 +1,135 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\client\client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.exe
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\client\client\client\bin\Debug\client.exe
+C:\Users\Furkan\Downloads\client\client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Downloads\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\client\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Desktop\currentClient\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.pdb
+C:\Users\Furkan\Desktop\currentClient\client\bin\Debug\client.exe
+C:\Users\Furkan\Desktop\currentClient\client\bin\Debug\client.pdb
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Desktop\currentClient\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\408SON\currentClient\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\408SON\currentClient\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\408SON\currentClient\client\obj\Debug\client.pdb
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\bin\Debug\client.exe
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.exe
+C:\Users\User\Desktop\cs408\proje\408SON\currentClient\client\obj\Debug\client.pdb
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\User\Desktop\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Downloads\408proj\408proj\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\User\Desktop\408proj\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Desktop\v2\v2\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Downloads\bitartiklutfen\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.exe
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\barankarahan_karahan_baran_Step1\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Desktop\lastversion50008\bitartiklütfen\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.pdb
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.exe
+C:\Users\User\Desktop\Yeni klasör (2)\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe.config
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.exe
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.pdb
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.pdb
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Form1.resources
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Furkan\Downloads\canbalfurkan_canbal_furkan_Step2\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.exe
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.exe
+C:\Users\User\Desktop\off yeter\canbalfurkan_canbal_furkan_Step2\Client\client\obj\Debug\client.pdb
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\bin\Debug\client.exe.config
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\bin\Debug\client.exe
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\bin\Debug\client.pdb
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.Form1.resources
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.exe
+C:\Users\User\Desktop\408sonsunum\barankarahan_karahan_baran_Step3\Client\client\obj\Debug\client.pdb
